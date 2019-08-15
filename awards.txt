@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>OPTIMAL-Awards</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="alert alert-info">
+  <strong><h1>OPTIMIZATION FOR MACHINE LEARNING</h1></strong>
+  <p></p><p>Indian Institue Of Technology Indore</p> 
+</div>
+
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <ul class="nav navbar-nav">
+      <li><a href="#">Home</a></li>
+      <li class="dropdown">
+        <a class="dropdown-toggle" data-toggle="dropdown" href="#">Research
+        <span class="caret"></span></a>
+        <ul class="dropdown-menu">
+          <li><a href="#">Research Areas</a></li>
+          <li><a href="#">Research Facilities</a></li>
+          <li><a href="#">External Funding</a></li>
+        </ul>
+      </li>
+      <li class="dropdown">
+        <a class="dropdown-toggle" data-toggle="dropdown" href="#">People
+        <span class="caret"></span></a>
+        <ul class="dropdown-menu">
+          <li><a href="#">Group Leader</a></li>
+          <li><a href="#">Postgraduate Students</a></li>
+          <li><a href="#">Phd Students</a></li>
+	  <li><a href="#">UG Students</a></li>
+	  <li><a href="#">Visiting Scientists</a></li>
+	  <li><a href="#">Alumuni</a></li>
+        </ul>
+      </li>
+      <li class="active"><a href="#">Awards</a></li>
+      <li><a href="#">Publications</a></li>
+      <li><a href="#">Light Moments</a></li>
+      <li><a href="#">Contact</a></li>
+    </ul>
+  </div>
+</nav>
+
+<h1 class="text-primary">AWARDS</h1>
+<h5></h5>
+<h5 class="text-danger">2019</h5>
+<div class="container">
+  <h1 class="text-primary">AWARDS</h1>    
+  <p>The dl element indicates a description list:</p>
+  <dl>
+    <dt>2019</dt>
+    <dd>- <p>Our paper entiled "Sparse pinball twin SVM" has been chosen for IIT Indore "Best UG Researcher Award". Congratulations to the team Dr. Aruna Tiwari, Mr. Rahul and Mr. Sanchit.</p></dd>
+    <dd>-Lead Guest Editor: ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM) (SCI Indexed).</dd>
+<dt>Milk</dt>
+    <dd>- white cold drink</dd>
+  </dl>     
+</div>
+<p>Our paper entiled "Sparse pinball twin SVM" has been chosen for IIT Indore "Best UG Researcher Award". Congratulations to the team Dr. Aruna Tiwari, Mr. Rahul and Mr. Sanchit.</p>
+
